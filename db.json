@@ -1,0 +1,29 @@
+{
+    "views": [
+        {
+            "id": 1,
+            "title": "eka näkymä",
+            "description": "desc",
+            "visibility": "hidden",
+            "status": "1",
+            "email": "foo@bar.com",
+            "languages": ["fi", "sv"],
+            "defaultLanguage": "fi",
+            "lastPublished": "2020-01-01",
+            "commentsEnabled": true,
+            "parentView": 120
+        },
+        {
+            "id": 2,
+            "title": "toka näkymä",
+            "description": "toka desc",
+            "visibility": "hidden",
+            "status": "2",
+            "email": "foo2@bar.com",
+            "languages": ["sv"],
+            "defaultLanguage": "sv",
+            "lastPublished": "2010-10-30",
+            "commentsEnabled": true
+        }
+    ]
+}
